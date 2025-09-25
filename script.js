@@ -372,7 +372,7 @@ function confirmPurchase() {
 
 // Countdown timer
 function initCountdown() {
-    const targetDate = new Date('October 7, 2025 00:00:00').getTime();
+    const targetDate = new Date('October 1, 2025 00:00:00').getTime();
     
     function updateCountdown() {
         const now = new Date().getTime();
