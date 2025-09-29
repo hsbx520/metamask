@@ -93,7 +93,7 @@ if (presaleAddress) {
 let isWalletConnected = false;
 let selectedNetwork = 'ethereum';
 let selectedCurrency = 'eth';
-const maskPrice = 0.0075; // Updated price: $0.0075 per MASK
+const maskPrice = 0.0085; // Updated price: $0.0085 per MASK
 
 // Currency exchange rates to USD
 const currencyRates = {
